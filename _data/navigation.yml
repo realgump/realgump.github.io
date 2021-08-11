@@ -3,17 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "News"
-    url: /news/ 
+#   - title: "News"
+#     url: /news/ 
     
-  - title: "Teaching"
-    url: /teaching/    
+#   - title: "Teaching"
+#     url: /teaching/    
     
   - title: "Experiences"
     url: /experiences/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Awards"
+    url: /awards/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Others"
+    url: /others/
