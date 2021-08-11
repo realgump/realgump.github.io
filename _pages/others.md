@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Others"
 permalink: /others/
 author_profile: true
 redirect_from:
@@ -19,7 +19,7 @@ redirect_from:
 ## Academic Services
 - Reviewer of conference: CVPR 2021
 
-## Life
+## Interests
 I have wide-ranged interests.
 - Arts: 
   - I am a little good at Singing. I have won the Champion in Singing Competition of Chongqing University in 2016, and been invited as the Top 10 Singers in the New Year Garden Party of Chongqing University in 2017.
