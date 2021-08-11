@@ -22,12 +22,12 @@ redirect_from:
 ## Life
 I have wide-ranged interests.
 - Arts: 
-  - I am a little good at Singing. (I have won the Champion in Singing Competition of Chongqing University in 2016, and been invited as the Top 10 Singers in the New Year Garden Party of Chongqing University in 2017)
+  - I am a little good at Singing. I have won the Champion in Singing Competition of Chongqing University in 2016, and been invited as the Top 10 Singers in the New Year Garden Party of Chongqing University in 2017.
   - I am also good at Piano, Guitar, and love Violin and all kinds of instruments.
 - Sports:
-  - My favourite is Football. I have built a football team of college, and won the 6th in the Football Cup of Chongqing University.
-  - I also enjoy Badminton, Table Tennis, Swimming, Skiing, Skating, etc.
+  - My favourite is Football. I have built a football team in the college, and won the 6th in the Football Cup of Chongqing University.
+  - I also enjoy Badminton, Table Tennis, Swimming, Skiing, Skating, and lots of other kinds of sports.
 - Games:
-  - I love all kinds of board games, such as Chinese Chess, Gomoku, Chess, Checkers, etc. I have won good places in some informal matches in the college. 
-  - I am also fans of Rubik's Cube, and its different variants.
+  - All kinds of board games, such as Chinese Chess, Gomoku, Chess, Checkers, etc. I have won good places in some informal matches in the college. 
+  - Rubik's Cube, and its different variants.
   - Video Games.
