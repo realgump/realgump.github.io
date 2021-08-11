@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Experience"
-permalink: /experience/
+permalink: /experiences/
 author_profile: true
 redirect_from:
   - /resume
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-### Education Experience
+### Education Experience 教育经历
 
 2019–now  M.Eng., College of Intelligence and Computing, Tianjin University, Tianjin, China.
 <br /> Research Interests: Computer Vision, Video Analysis, Multi-Camera Video Collaborative Analysis
