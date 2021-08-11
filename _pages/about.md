@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+{% include test.html %}
 
 I am a second-year master student at the [College of Intelligence and Computing](http://cic.tju.edu.cn/) in [Tianjin University](http://www.tju.edu.cn/) (TJU) under the supervision of Prof. [Song Wang](https://cse.sc.edu/~songwang/) (University of South Carolina), Prof. [Wei Feng](http://cic.tju.edu.cn/faculty/fengwei/index.html) (Tianjin University), and Prof. [Liang Wan](http://cic.tju.edu.cn/faculty/lwan/index.html) (Tianjin University). My current research interest is computer vision, specifically including video understanding, multi-camera video collaborative analysis.
 
