@@ -31,12 +31,12 @@ redirect_from:
 
 ## Education Experiences
 
-- 2019 - now  M.Eng., Computer Science and Technology, College of Intelligence and Computing, Tianjin University
+- 2019 - 2022  M.Eng., Computer Science and Technology, College of Intelligence and Computing, Tianjin University
 
   **Research Interests**: 
   Computer Vision (Video Understanding, Multi-Camera Collaborative Analysis)
 
-- 2015–2019  B.S., Information and Computing Sciences, Colledge of Mathematics and Statistics, Chongqing University
+- 2015 – 2019  B.S., Information and Computing Sciences, Colledge of Mathematics and Statistics, Chongqing University
 
   **Research Interests**:
    Numerical Analysis
@@ -47,4 +47,11 @@ redirect_from:
  
   **Main Work**:
 Big Data Analysis, Recommender System, Computer Vision
+
+## Working Experiences
+
+- 2022.2 - now，Meituan - Computer Vision Engineer
+ 
+  **Main Work**:
+Action Recognition
 
