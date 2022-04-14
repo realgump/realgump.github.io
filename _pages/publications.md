@@ -16,9 +16,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-5\.  **Yiyang Gan**, Ruize Han, Nan Li, Yun Wang, Wei Feng, Song Wang, Relating View Directions of Complementary-View Moving Cameras, IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022. (In Submission)
+<!-- 5\.  **Yiyang Gan**, Ruize Han, Nan Li, Yun Wang, Wei Feng, Song Wang, Relating View Directions of Complementary-View Moving Cameras, IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022.  -->
 
-4\. Ruize Han, **Yiyang Gan**, Jiacheng Li, FeiFan Wang, Wei Feng, Song Wang, Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association, IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022. (In Submission)
+4\. Ruize Han, **Yiyang Gan**, Jiacheng Li, FeiFan Wang, Wei Feng, Song Wang, Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association, IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022.
 
 3\. **Yiyang Gan**, Ruize Han, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, ACM International Conference on Multimedia (ACM MM) 2021. `Oral` [[Paper]](http://realgump.github.io/files/21-MM_MvMHAT.pdf) [[Project]](https://github.com/realgump/MvMHAT)
 
