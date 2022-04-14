@@ -17,7 +17,7 @@ redirect_from:
 - Framework: PyTorch > TensorFlow
 
 ## Academic Services
-- Reviewer of conference: CVPR 2021
+- Reviewer of conference: CVPR 2021, CVPR 2022, ICME 2022
 
 ## Interests
 I have wide-ranged interests.
