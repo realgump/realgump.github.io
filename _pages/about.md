@@ -22,11 +22,11 @@ Research interests: **Multimodal Language Model**, **Visual Foundation Model**, 
 - Limeng Qiao, **Yiyang Gan**, Bairui Wang, Jie Qin, Shuang Xu, Siqi Yang, Lin Ma. UniViTAR: Unified Vision Transformer with Native Resolution
 - Feng Yan, Weixin Luo, Yujie Zhong, **Yiyang Gan**, Lin Ma. CO-MOT: Boosting End-to-end Transformer-based Multi-Object Tracking via Coopetition Label Assignment and Shadow Sets
 - Wei Feng, Feifan Wang, Ruize Han, **Yiyang Gan**, Zekun Qian, Junhui Hou, Song Wang. Unveiling the power of self-supervision for multi-view multi-human association and tracking, *TPAMI*.
-- Ruize Han`<sup>`&para;`</sup>`, **Yiyang Gan**`<sup>`&para;`</sup>`, Likai Wang, Nan Li, Wei Feng, Song Wang. Relating View Directions of Complementary-View Mobile Cameras via the Human Shadow, *IJCV*. (Co-first Author)
+- Ruize Han<sup>&para;</sup>, **Yiyang Gan**<sup>&para;</sup>, Likai Wang, Nan Li, Wei Feng, Song Wang. Relating View Directions of Complementary-View Mobile Cameras via the Human Shadow, *IJCV*. (Co-first Author)
 - Ruize Han, **Yiyang Gan**, Jiacheng Li, FeiFan Wang, Wei Feng, Song Wang. Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association, *CVPR 2022*.
 - **Yiyang Gan**, Ruize Han, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, *ACM MM 2021*. `Oral` [[Paper]](http://realgump.github.io/files/21-MM_MvMHAT.pdf) [[Project]](https://github.com/realgump/MvMHAT)
 - Ruize Han, Jiewen Zhao, Wei Feng, **Yiyang Gan**, Liang Wan, Song Wang. Complementary-View Co-Interest Person Detection, *ACM MM 2020*. [[Paper]](http://realgump.github.io/files/20-MM-CIP.pdf) [[Project]](https://github.com/realgump/CIP)
-- Jiewen Zhao`<sup>`&para;`</sup>`, Ruize Han`<sup>`&para;`</sup>`, **Yiyang Gan**`<sup>`&para;`</sup>`, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, *ACM MM 2020*. (Co-first Author) [[Paper]](http://realgump.github.io/files/20-MM-CVID.pdf) [[Project]](https://github.com/realgump/CVID)
+- Jiewen Zhao<sup>&para;</sup>, Ruize Han<sup>&para;</sup>, **Yiyang Gan**<sup>&para;</sup>, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, *ACM MM 2020*. (Co-first Author) [[Paper]](http://realgump.github.io/files/20-MM-CVID.pdf) [[Project]](https://github.com/realgump/CVID)
 
 ## Awards
 - 2023, 2nd place at the **SoccerNet Multiple Object Tracking Challenge** during CVPR 2023.
