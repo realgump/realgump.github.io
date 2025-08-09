@@ -19,8 +19,8 @@ Research interests: **Multimodal Language Model**, **Visual Foundation Model**, 
 
 ## Publications
 
-- Limeng Qiao, **Yiyang Gan**, Bairui Wang, Jie Qin, Shuang Xu, Siqi Yang, Lin Ma. UniViTAR: Unified Vision Transformer with Native Resolution
-- Feng Yan, Weixin Luo, Yujie Zhong, **Yiyang Gan**, Lin Ma. CO-MOT: Boosting End-to-end Transformer-based Multi-Object Tracking via Coopetition Label Assignment and Shadow Sets
+- Limeng Qiao, **Yiyang Gan**, Bairui Wang, Jie Qin, Shuang Xu, Siqi Yang, Lin Ma. UniViTAR: Unified Vision Transformer with Native Resolution.
+- Feng Yan, Weixin Luo, Yujie Zhong, **Yiyang Gan**, Lin Ma. CO-MOT: Boosting End-to-end Transformer-based Multi-Object Tracking via Coopetition Label Assignment and Shadow Sets, *ICLR 2025*.
 - Wei Feng, Feifan Wang, Ruize Han, **Yiyang Gan**, Zekun Qian, Junhui Hou, Song Wang. Unveiling the power of self-supervision for multi-view multi-human association and tracking, *TPAMI*.
 - Ruize Han<sup>&para;</sup>, **Yiyang Gan**<sup>&para;</sup>, Likai Wang, Nan Li, Wei Feng, Song Wang. Relating View Directions of Complementary-View Mobile Cameras via the Human Shadow, *IJCV*. (Co-first Author)
 - Ruize Han, **Yiyang Gan**, Jiacheng Li, FeiFan Wang, Wei Feng, Song Wang. Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association, *CVPR 2022*.
