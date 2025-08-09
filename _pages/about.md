@@ -29,14 +29,14 @@ Research interests: **Multimodal Language Model**, **Visual Foundation Model**, 
 - Jiewen Zhao`<sup>`&para;`</sup>`, Ruize Han`<sup>`&para;`</sup>`, **Yiyang Gan**`<sup>`&para;`</sup>`, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, *ACM MM 2020*. (Co-first Author) [[Paper]](http://realgump.github.io/files/20-MM-CVID.pdf) [[Project]](https://github.com/realgump/CVID)
 
 ## Awards
-- 2023, 2nd place at the SoccerNet Multiple Object Tracking Challenge during CVPR 2023.
-- 2023, 5th place at the SoccerNet Jersey Number Recognition Challenge during CVPR 2023.
-- 2022, 4th place at the Epic Kitchens Action Recognition Challenge during CVPR 2022.
-- 2022, Excellent Graduates of Tianjin University.
-- 2021, First scholarship of Tianjin University.
-- 2020, First scholarship of Tianjin University.
-- 2019, First scholarship of Tianjin University.
-- 2019, Excellent Graduates of Chongqing University.
+- 2023, 2nd place at the **SoccerNet Multiple Object Tracking Challenge** during CVPR 2023.
+- 2023, 5th place at the **SoccerNet Jersey Number Recognition Challenge** during CVPR 2023.
+- 2022, 4th place at the **Epic Kitchens Action Recognition Challenge** during CVPR 2022.
+- 2022, **Excellent Graduates** of Tianjin University.
+- 2021, **First scholarship** of Tianjin University.
+- 2020, **First scholarship** of Tianjin University.
+- 2019, **First scholarship** of Tianjin University.
+- 2019, **Excellent Graduates** of Chongqing University.
 
 <!-- ## Services
 
